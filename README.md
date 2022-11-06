@@ -26,7 +26,7 @@ You will present your findings in class on December 10th at 4 pm. Each team gets
 
 Here are some open datasets that you may choose from:
 
-Detroit open data
+**Detroit open data
 
 https://data.detroitmi.gov/Links to an external site.
 
@@ -34,19 +34,19 @@ http://portal.datadrivendetroit.org/Links to an external site.
 
  
 
-Open government data
+**Open government data
 
 https://catalog.data.gov/datasetLinks to an external site.
 
  
 
-Socrata open data
+**Socrata open data
 
 https://dev.socrata.com/docs/filtering.htmlLinks to an external site.
 
  
 
-Open streetmap data
+**Open streetmap data
 
 http://wiki.openstreetmap.org/wiki/Main_PageLinks to an external site.
 
@@ -54,7 +54,7 @@ http://wiki.openstreetmap.org/wiki/OSM_XMLLinks to an external site.
 
  
 
-Others
+**Others
 
 http://musicbrainz.org/doc/Development/JSON_Web_ServiceLinks to an external site.
 
@@ -70,16 +70,17 @@ http://www.gapminder.orgLinks to an external site.
 
 http://www.gapminder.org/data/Links to an external site.
 
-Driven data
+**Driven data
 
 https://www.drivendata.org/competitions/Links to an external site.
 
  
 
-Weather data
+**Weather data
 
 https://www.nesdis.noaa.gov/Links to an external site.
 
 Kaggle - https://www.kaggle.com/datasets
 
-Quandl - https://www.quandl.com/searchWorld Bank - https://data.worldbank.org/
+Quandl - https://www.quandl.com/search
+World Bank - https://data.worldbank.org/
