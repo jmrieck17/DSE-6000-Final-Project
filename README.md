@@ -1,4 +1,4 @@
-# DSE-6000-Final-Project
+# DSE 6000 Final Project
 
 Use the Covid data sets that you worked with, in Assignment 1 and get additional data on two other dimensions of your choice like regional economic data(unemployment, etc..), other diseases, etc., from various open datasets and find any interesting insights with respect to COVID and the other data that you picked. Keep your data in your Google Cloud Storage and make the data publicly accessible so that anyone can successfully run your Colab file.
 
@@ -34,19 +34,19 @@ http://portal.datadrivendetroit.org/Links to an external site.
 
  
 
-**Open government data
+**Open government data**
 
 https://catalog.data.gov/datasetLinks to an external site.
 
  
 
-**Socrata open data
+**Socrata open data**
 
 https://dev.socrata.com/docs/filtering.htmlLinks to an external site.
 
  
 
-**Open streetmap data
+**Open streetmap data**
 
 http://wiki.openstreetmap.org/wiki/Main_PageLinks to an external site.
 
@@ -54,7 +54,7 @@ http://wiki.openstreetmap.org/wiki/OSM_XMLLinks to an external site.
 
  
 
-**Others
+**Others**
 
 http://musicbrainz.org/doc/Development/JSON_Web_ServiceLinks to an external site.
 
@@ -70,13 +70,13 @@ http://www.gapminder.orgLinks to an external site.
 
 http://www.gapminder.org/data/Links to an external site.
 
-**Driven data
+**Driven data**
 
 https://www.drivendata.org/competitions/Links to an external site.
 
  
 
-**Weather data
+**Weather data**
 
 https://www.nesdis.noaa.gov/Links to an external site.
 
