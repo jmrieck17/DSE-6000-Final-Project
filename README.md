@@ -23,3 +23,63 @@ If you also create a project on the talent website, you will receive 0.5 points 
 You will present your findings in class on December 10th at 4 pm. Each team gets 
 
 5-7 minutes for the presentation.
+
+Here are some open datasets that you may choose from:
+
+Detroit open data
+
+https://data.detroitmi.gov/Links to an external site.
+
+http://portal.datadrivendetroit.org/Links to an external site.
+
+ 
+
+Open government data
+
+https://catalog.data.gov/datasetLinks to an external site.
+
+ 
+
+Socrata open data
+
+https://dev.socrata.com/docs/filtering.htmlLinks to an external site.
+
+ 
+
+Open streetmap data
+
+http://wiki.openstreetmap.org/wiki/Main_PageLinks to an external site.
+
+http://wiki.openstreetmap.org/wiki/OSM_XMLLinks to an external site.
+
+ 
+
+Others
+
+http://musicbrainz.org/doc/Development/JSON_Web_ServiceLinks to an external site.
+
+http://www.transtats.bts.gov/Data_Elements.aspx?Data=2Links to an external site.
+
+http://www.ercot.com/gridinfo/load/load_hist/Links to an external site.
+
+https://www.dataquest.io/blog/free-datasets-for-projects/Links to an external site.
+
+https://www.reddit.com/r/datasets/Links to an external site.
+
+http://www.gapminder.orgLinks to an external site.
+
+http://www.gapminder.org/data/Links to an external site.
+
+Driven data
+
+https://www.drivendata.org/competitions/Links to an external site.
+
+ 
+
+Weather data
+
+https://www.nesdis.noaa.gov/Links to an external site.
+
+Kaggle - https://www.kaggle.com/datasets
+
+Quandl - https://www.quandl.com/searchWorld Bank - https://data.worldbank.org/
