@@ -26,7 +26,7 @@ You will present your findings in class on December 10th at 4 pm. Each team gets
 
 Here are some open datasets that you may choose from:
 
-**Detroit open data
+**Detroit open data**
 
 https://data.detroitmi.gov/Links to an external site.
 
